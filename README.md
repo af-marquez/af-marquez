@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning C, HTML, CSS, JAVASCRIPT and also a bit of PHP;
 - 🤔 I’m looking to build my own website where I can show my latest projects and all the obstacles I've faced;
 - 💬 Ask me about anything if you need;
-- 📫 How to reach me: github
-- ⚡ Fun fact: All of this is doing a career change, wish me luck!
+- 📫 How to reach me: through here;
+- ⚡ Fun fact: All of this is me doing a career change, wish me luck!
 
