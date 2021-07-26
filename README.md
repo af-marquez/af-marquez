@@ -1,11 +1,10 @@
 ### Hi there, I'm Alex 👋
 
 
-- 🔭 I’m currently finishing a tic-toe game and trying to recreate printf;
-- 🤖 Also I'm frequenting two courses right now. One in 42Lisboa and the other, a 350h WebProgramming course;
-- 🌱 I’m currently learning C, HTML, CSS, JAVASCRIPT and also a bit of PHP;
-- 🤔 I’m looking to build my own website where I can show my latest projects and all the obstacles I've faced;
-- 💬 Ask me about anything if you need;
-- 📫 How to reach me: through here;
+- 🔭 I’m currently trying to recreate printf;
+- 🤖 Frequenting 42Lisboa and a 350h WebProgramming course;
+- 🌱 I’m currently learning C, HTML, CSS, JAVASCRIPT,PHP;
+- 💬 Ask me about anything if you need ⬇️
+- 📫 https://af-marquez.github.io/ (where I can show my latest projects and all the obstacles I've faced)
 - ⚡ Fun fact: All of this, is me doing a career change, wish me luck!
 
